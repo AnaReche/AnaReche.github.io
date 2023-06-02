@@ -20,9 +20,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** 
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 27KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -47,14 +47,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** Observando trabajos de alumnos de años anteriores me pareció buena idea como trabajo. Estéticamente y organización la he ideado yo 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
+- Portfolio
 
 **Motivación de la propuesta** 
 
 Este  proyecto es interesante porque es una manera diferente de ver los trabajos de alguien en vez de hojear un libro. 
-
 
 **Publico / audiencia**
 
@@ -63,30 +62,20 @@ Este  proyecto es interesante porque es una manera diferente de ver los trabajos
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
 - Video 
 - Menús y elementos de navegación (botones)
-- 
-- etc.
-
-
+- Créditos
+- Galería
+- Teaser
+- Logo
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
+La parte final del juego cuando aciertas que cartas son las parejas, no consigo que salga un mensaje de bien hecho o mal hecho
+El sonido solo se escucha nada más que al final. 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Ha sido un trabajo diferente. 
 
 
 # 5 Referencias 
@@ -96,7 +85,6 @@ Este  proyecto es interesante porque es una manera diferente de ver los trabajos
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
-
 * Musica:  
 * Imágenes:  
 * Tipografía
@@ -104,11 +92,9 @@ Este  proyecto es interesante porque es una manera diferente de ver los trabajos
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
