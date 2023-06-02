@@ -6,21 +6,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
+**Titulo** : Mi Proyecto(Portfolio - Ana Reche)
 
-
-**Titulo** : MI Proyecto(Portfolio - Ana Reche)
-
-**Web:**   (url github.io)
+**Web:**  AnaReche.github.io
 
 **Autor:**  (Ana Reche Martínez)
 
-**Resumen** : Este proyecto trata sobre mi portafolio con i
+**Resumen** : Este proyecto trata sobre mi portafolio con ilustraciones realizadas por mi. En este proyecto podremos ver mis trabajos en un ipad, una galería de imágenes y un juego de pareja de cartas.
 
 **Estilo/género:**  Portfolio.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : ![OJO SIN FONDO1](https://github.com/AnaReche/AnaReche.github.io/assets/134588611/fef50f62-3029-44c7-96a3-7e97047eec3b)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -30,66 +26,39 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+En mi poryecto habrá un breve recorrido por algunos de mis trabajos de ilustración
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
 
 
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-
-
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante porque es una manera diferente de ver los trabajos de alguien en vez de hojear un libro. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a juvenil - adulto
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
@@ -98,8 +67,8 @@ Este  proyecto es interesante porque ...
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
+- 
 - etc.
 
 
